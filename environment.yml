@@ -1,0 +1,7 @@
+name: pydact
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - pytest
